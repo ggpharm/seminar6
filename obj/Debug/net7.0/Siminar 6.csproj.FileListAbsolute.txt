@@ -1,0 +1,4 @@
+/Users/sergeyrubcov/Desktop/NEWSEMINAR/Seminar1/Siminar 6/obj/Debug/net7.0/Siminar 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyrubcov/Desktop/NEWSEMINAR/Seminar1/Siminar 6/obj/Debug/net7.0/Siminar 6.AssemblyInfoInputs.cache
+/Users/sergeyrubcov/Desktop/NEWSEMINAR/Seminar1/Siminar 6/obj/Debug/net7.0/Siminar 6.AssemblyInfo.cs
+/Users/sergeyrubcov/Desktop/NEWSEMINAR/Seminar1/Siminar 6/obj/Debug/net7.0/Siminar 6.csproj.CoreCompileInputs.cache
